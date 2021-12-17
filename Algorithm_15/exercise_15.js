@@ -31,9 +31,5 @@ for (var n of values) {
    let min = Math.min(...values);
 
     // POR PANTALLA:
-    document.write ("<strong>Suma: </strong>" + suma + ".<br>" +
-                    "<strong>Suma de cuadrados: </strong>" + cuadrados + ".<br>" +
-                    "<strong>Promedio: </strong>" + promedio + ".<br>" +
-                    "<strong>Maximo: </strong>" + max + ".<br>" +
-                    "<strong>Minimo: </strong>" + min + ".<br>"
-    );
+    console.log(+ suma + + cuadrados + + promedio + + max + + min 
+    ); 
