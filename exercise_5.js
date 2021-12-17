@@ -3,8 +3,8 @@
 negativos debes dar un alert de error) y muestre por consola
 el resultado de multiplicarlos por sumas repetidas.*/
 
-var num1 = ("Introduce un numero")* 1; 
-var num2 = ("Introduce otro numero")* 1;
+var num1 = prompt ("Introduce un numero")* 1; 
+var num2 = prompt ("Introduce otro numero")* 1;
 
 result = 0;
 
